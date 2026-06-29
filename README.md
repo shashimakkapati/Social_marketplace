@@ -57,8 +57,3 @@ This project uses some basic object-oriented programming ideas:
 - `User` - stores user details, balance, followed users, and cart.
 - `Marketplace` - manages users, products, login, browsing, and checkout.
 
-## Notes
-
-- This is a simple learning project.
-- Data is not saved permanently, so everything resets when the program closes.
-- Passwords are stored in plain text for simplicity.
